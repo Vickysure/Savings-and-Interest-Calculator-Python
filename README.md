@@ -54,6 +54,10 @@ Calculates interest based on the savings information provided.
 
 ### Savings Growth Tracking
 Tracks how savings develop over the specified period.
+<p align="center">
+<img src="./screenshot/screenshot 2.png" width="900">
+</p>
+
 
 ### Savings Goal Tracking
 Evaluates progress toward a defined savings target.
