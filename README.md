@@ -1,4 +1,8 @@
 # Savings & Interest Calculator with Python
+<p align="center">
+<img src="./screenshot/screenshot 1.png" width="900">
+</p>
+
 
 ##  Project Overview
 
@@ -44,7 +48,7 @@ A Python-based Savings & Interest Calculator developed as a practical case study
 ### Interest Calculation
 Calculates interest based on the savings information provided.
 <p align="center">
-<img src="./screenshots/screenshot 1.png" width="900">
+<img src="./screenshots/screenshot 2.png" width="900">
 </p>
 
 
