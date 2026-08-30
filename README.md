@@ -112,8 +112,6 @@ The project was completed without using:
 
 - Add a graphical user interface (GUI).
 - Store customer records in a database.
-- Add visualizations for savings growth.
-- Allow comparison of multiple savings plans.
 - Develop a web-based version of the calculator.
 
 ## Acknowledgements
