@@ -88,6 +88,18 @@ The project involved breaking a real-world savings scenario into smaller logical
 
 This approach helped transform a financial problem into a functional programming solution.
 
+## Project Restrictions
+
+The project was completed without using:
+
+- Classes
+- File handling
+- Exception handling
+- External Python libraries
+- Regular expressions
+- Advanced Python concepts not taught in the Study Group
+
+
 ##  Key Learning Outcomes
 
 - Improved understanding of Python fundamentals.
@@ -103,6 +115,10 @@ This approach helped transform a financial problem into a functional programming
 - Add visualizations for savings growth.
 - Allow comparison of multiple savings plans.
 - Develop a web-based version of the calculator.
+
+## Acknowledgements
+
+Special thanks to Coach Timothy and SmartBizcrux Technologies for the guidance and learning materials provided throughout the Python Study Group.
 
 ## Author
 
