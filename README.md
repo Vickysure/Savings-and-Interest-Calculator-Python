@@ -70,9 +70,17 @@ Evaluates progress toward a defined savings target.
 
 ### Customer Categorization
 Categorizes savings outcomes based on defined conditions.
+<p align="center">
+<img src="./screenshot/screenshot 4.png" width="900">
+</p>
+
 
 ### Savings Report
 Generates a structured summary of the savings results.
+<p align="center">
+<img src="./screenshot/screenshot 5.png" width="900">
+</p>
+
 
 ##  Problem-Solving Approach
 
