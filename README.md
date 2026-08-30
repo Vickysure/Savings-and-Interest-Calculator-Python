@@ -17,7 +17,7 @@ A Python-based Savings & Interest Calculator developed as a practical case study
 - Python
 - Jupyter Notebook
 
-## 🧠Python Concepts Applied
+## Python Concepts Applied
 
 - Variables
 - Conditional statements
@@ -43,6 +43,10 @@ A Python-based Savings & Interest Calculator developed as a practical case study
 
 ### Interest Calculation
 Calculates interest based on the savings information provided.
+<p align="center">
+<img src="./screenshots/screenshot 1.png" width="900">
+</p>
+
 
 ### Savings Growth Tracking
 Tracks how savings develop over the specified period.
