@@ -1,4 +1,4 @@
-# Savings & Interest Calculator with Python
+# SAVINGS & INTEREST CALCULATOR with PYTHON
 <p align="center">
 <img src="./screenshot/Screenshot 1.png" width="900">
 </p>
