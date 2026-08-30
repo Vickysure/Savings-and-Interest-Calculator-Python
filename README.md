@@ -108,12 +108,6 @@ The project was completed without using:
 - Improved understanding of input validation and variable scope.
 - Learned how to structure a Python solution around a real-world problem.
 
-##  Future Improvements
-
-- Add a graphical user interface (GUI).
-- Store customer records in a database.
-- Develop a web-based version of the calculator.
-
 ## Acknowledgements
 
 Special thanks to Coach Timothy and SmartBizcrux Technologies for the guidance and learning materials provided throughout the Python Study Group.
