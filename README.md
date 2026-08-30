@@ -1,6 +1,6 @@
 # Savings & Interest Calculator with Python
 <p align="center">
-<img src="./screenshot/screenshot 1.png" width="900">
+<img src="./screenshot/Screenshot 1.png" width="900">
 </p>
 
 
