@@ -61,6 +61,12 @@ Tracks how savings develop over the specified period.
 
 ### Savings Goal Tracking
 Evaluates progress toward a defined savings target.
+<p align="center">
+<img src="./screenshot/screenshot 3.png" width="900">
+</p>
+
+
+
 
 ### Customer Categorization
 Categorizes savings outcomes based on defined conditions.
